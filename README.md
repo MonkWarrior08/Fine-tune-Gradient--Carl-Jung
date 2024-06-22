@@ -15,7 +15,7 @@ The fine-tuning process is implemented in a Google Colab notebook, which is publ
 To test the model:
 
 Open the Colab notebook
-Rune the required code segment chronologically. Requires your own gradient account and ID to interact with the fine-tuned model
+Run the required code segment chronologically. Requires your own gradient account and ID to interact with the fine-tuned model. Carl Jung data can be downloaded from the main repo (csv file).
 
 
 Feel free to contribute, provide feedback, or use this model for your own.
